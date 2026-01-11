@@ -738,7 +738,9 @@ a:hover {
              
 }
 
-
+.s {
+            border: 3px solid black;
+            border-radius: 15px;
 .navbar-brand .text-info {
     font-size: 24px; 
     font-weight: bold; 
@@ -815,8 +817,8 @@ mysqli_query($con, $update_query);
 	<div class="collapse navbar-collapse" id="sidebar-collapse">
     <b>
         <p class="navbar-brand">
-            <span class="text-info kudos-text"> Kudos(UCSMGY)</span>
-            <img src="favicon.ico" alt="Icon" class="kudos-icon">
+            <span class="s">H</span><span class="text-info kudos-text"> Kudos</span>
+           
         </p>
     </b>
 

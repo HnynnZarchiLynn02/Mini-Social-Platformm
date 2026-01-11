@@ -138,7 +138,7 @@ if (isset($_SESSION["username"])) {
 <body>
     <div><p class="p"><span class="s">H</span>Kudos</p></div>
     <div class="header">
-        <h1 class="heading-text"><span><img src="UCSMGY logo.png" style="width:60px;height:60px;"></span> UCSMGY Social Platform </h1>
+        <h1 class="heading-text"><span></span> Kudos Social Platform </h1>
     </div>
     <div class="error">
         <?php login(); ?>

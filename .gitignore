@@ -1,20 +1,5 @@
-# Composer
-/vendor/
-
-# Node (if any)
-node_modules/
-
-# Environment
-.env
-
-# Logs
-*.log
-
-# IDE / Editor
-.vscode/
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
 dbconfig.php
+.env
+vendor/
+Club-Manager-DB.sql
+composer.phar
