@@ -3,3 +3,10 @@ dbconfig.php
 vendor/
 Club-Manager-DB.sql
 composer.phar
+SMTP.php
+PHPMailer.php
+phpmailer/
+phpmailer/phpmailer/
+autoload.php
+db.sql
+*.sql
